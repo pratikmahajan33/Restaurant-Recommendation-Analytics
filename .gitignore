@@ -1,0 +1,41 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.ipynb_checkpoints
+.mypy_cache/
+.pytest_cache/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/
+*.csv
+*.json
+*.xlsx
+*.xls
+
+# Models
+models/
+*.joblib
+*.pkl
+
+# Output/Logs
+output/
+logs/
+*.log
+*.tmp
+
+# Tableau output
+tableau/
+
+# Misc
+.DS_Store
